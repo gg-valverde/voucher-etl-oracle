@@ -1,0 +1,5 @@
+[
+  {"id": "DEMO-001", "voucherConfig": 100, "code": "FICTICIO-A", "amount": 25.5, "generated": "2026-01-02T02:30:00Z", "used": null, "expiration": "2026-02-01T23:59:59Z", "statusLabel": "Disponible"},
+  {"id": "DEMO-002", "voucherConfig": 100, "code": "FICTICIO-B", "amount": 10, "generated": "2026-01-03T15:20:10.57692Z", "used": "2026-01-04T12:00:00Z", "expiration": "2026-02-01T23:59:59Z", "statusLabel": "Utilizado"},
+  {"id": "DEMO-003", "voucherConfig": 100, "code": "FICTICIO-C", "amount": 15, "generated": "2026-01-04T10:00:00+00:00", "used": null, "expiration": "2026-02-01T23:59:59Z", "statusLabel": "Disponible"}
+]

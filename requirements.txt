@@ -1,0 +1,3 @@
+# Solo para integración conectada. La demo y las pruebas usan la biblioteca estándar.
+requests>=2.32,<3
+oracledb>=2,<4

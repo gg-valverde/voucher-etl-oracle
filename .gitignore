@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+*.log
+*.bat
+__pycache__/
+output/
+.venv/
